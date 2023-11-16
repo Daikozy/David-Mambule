@@ -19,13 +19,13 @@ About me: I'm interested in basketball
 <img src="https://media.giphy.com/media/l46CzMzHoPpA80ecw/giphy.gif" width="70">
 <br>
 What I am doing: I'm currently learning Computer Science
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70">
 <br>
 Hobbies: In my spare time i like to watch anime and play basketabll
-<img src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif" width="70">
 <br>
 How to reach me: Don't
-<img src="https://media.giphy.com/media/2l5rRt5MbJkPnUYdWL/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/nBxg1Ekx64BmGAaD2r/giphy.gif" width="70">
 
 ---
 
