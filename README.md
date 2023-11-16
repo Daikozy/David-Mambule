@@ -1,9 +1,9 @@
 # David-Mambule
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/3ornk5Q8IO6gpwDrAQ/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/3ornk5Q8IO6gpwDrAQ/giphy.gif" width="400"/>
 <h1>
 What you sayin broski, I'm @Daikozy
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJvNHpudXlza242NXdrcGgxNTN2NmI2eGRlc2toNmF5bGZ3b2ZtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvjldZH7sUbyU/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJvNHpudXlza242NXdrcGgxNTN2NmI2eGRlc2toNmF5bGZ3b2ZtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvjldZH7sUbyU/giphy.gif" width="100" />
 </div>
 </h1>
 
@@ -16,16 +16,16 @@ height="300"/>
 
 ### About Me :
 About me: I'm interested in basketball
-<img src="https://media.giphy.com/media/l46CzMzHoPpA80ecw/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/l46CzMzHoPpA80ecw/giphy.gif" width="70">
 <br>
 What I am doing: I'm currently learning Computer Science
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50">
 <br>
 Hobbies: In my spare time i like to watch anime and play basketabll
-<img src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/aDS8SjVtS3Mwo/giphy.gif" width="100">
 <br>
 How to reach me: Don't
-<img src="https://media.giphy.com/media/2l5rRt5MbJkPnUYdWL/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/2l5rRt5MbJkPnUYdWL/giphy.gif" width="80">
 
 ---
 
