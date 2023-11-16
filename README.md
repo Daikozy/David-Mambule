@@ -22,7 +22,7 @@ What I am doing: I'm currently learning Computer Science
 <br>
 Hobbies: In my spare time i like to watch anime and play basketabll
 <br>
-How to reach me: Don't
+How to reach me: Don't 
 
 ---
 
