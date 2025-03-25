@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/3ornk5Q8IO6gpwDrAQ/giphy.gif" width="400"/>
 <h1>
 Hi, I'm @Daikozy
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJvNHpudXlza242NXdrcGgxNTN2NmI2eGRlc2toNmF5bGZ3b2ZtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvjldZH7sUbyU/giphy.gif](https://media.tenor.com/d6qjdPAtbWAAAAAM/hi-kris-hi-kris-work.gif)" width="100" />
+<img src="https://media.giphy.com/media/lvjldZH7sUbyU/giphy.gif" width="100" />
 </div>
 </h1>
 
